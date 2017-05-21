@@ -2,7 +2,7 @@
 
 ### Stephen Murphy
 
-- Head of Sound, AFTRS
+- Head of Sound, AFTRS |
 - President, ASSG |
 
 Note:
@@ -72,7 +72,7 @@ designingsound.org
 
 ## Sound Design
 
-- Sound modifies visual perception, and vice versa
+- Sound modifies visual perception, and vice versa |
 - Cinema is not a visual medium, but multimodal    |
 - Cinema is not primarily narrative, but affective |
 
@@ -101,20 +101,11 @@ designingsound.org
 
 +++
 
----?image=http://d.pr/i/rqZYu.png
++++?image=http://d.pr/i/rqZYu.png
 
 +++
 
----?image=http://d.pr/i/rqZYu+
-
-
-+++
-
----?image=http://d.pr/i/t0jI2.png
-
-+++
-
----?image=http://d.pr/i/t0jI2+
++++?image=http://d.pr/i/t0jI2.png
 
 +++
 
