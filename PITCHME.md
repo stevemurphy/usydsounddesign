@@ -119,25 +119,25 @@ YouTube: Sound (Design) Is 70% Of What You See
 
 ---
 
-#### Intro: The Scene
+### Intro: The Scene
 
 ---?video=http://d.pr/v/ENb69+
 
 ---
 
-#### Starting the Edit
+### Starting the Edit
 
 ---?video=http://d.pr/v/ka9NA+
 
 ---
 
-#### Spotting Session
+### Spotting Session
 
 ---?video=https://d.pr/URw7e+
 
 ---
 
-#### The Dialogue Edit
+### The Dialogue Edit
 
 ---?video=http://d.pr/v/aqxyw+
 
@@ -146,31 +146,31 @@ For this, really recommend listening to the video later, probably on headphones,
 
 ---
 
-#### Sound Design
+### Sound Design
 
 ---?video=https://d.pr/Rg4VP+
 
 ---
 
-#### Sound Design (Creative Collaboration)
+### Sound Design (Creative Collaboration)
 
 ---?video=https://d.pr/Lm9eZ+
 
 ---
 
-#### Sound Mixing
+### Sound Mixing
 
 ---?video=https://d.pr/Jg3uQ+
 
 ---
 
-#### Sound Mixing
+### Sound Mixing
 clip 09
 ---?video=+
 
 ---
 
-#### Diegetic sound
+### Diegetic sound
 
 clip 08
 
@@ -187,13 +187,13 @@ YouTube: The Beautiful Lies of Sound Design
 
 ---
 
-#### Langkjær
+### Langkjær
 lies 01
 ---?video=+
 
 ---
 
-#### Langkjær
+### Langkjær
 lies 02
 ---?video=+
 
@@ -205,7 +205,7 @@ YouTube: Top 10 Best Sound Designed Films of All Time
 
 ---
 
-#### Top 10 Stalker
+### Top 10 Stalker
 
 ---?video=+
 
@@ -216,7 +216,7 @@ Complexity of sound design - many things - world, narration, tone, emotion.
 
 ---
 
-#### Top 10 The Conversation
+### Top 10 The Conversation
 
 ---?video=+
 
