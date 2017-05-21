@@ -223,6 +223,36 @@ Murch
 
 ---
 
+### REFERENCES
+
+Chion, M. (1994). _Audio-vision: sound on screen_. New York: Columbia University Press.
+
+Langkjær, B. (2010). 'Making fictions sound real - on film sound, perceptual realism and genre', _MedieKultur_, vol. 26, no. 48, pp. 5-17.
+
+Murch, W. (2005, April 1). _Walter Murch._ Retrieved from http://transom.org/2005/walter-murch/
+
+Ward, M.S. (2015). 'Art in noise: an embodied simulation account of cinematic sound design', in M. Coëgnarts & P. Kravanja (eds), _Embodied cognition and cinema_, Leuven University Press, Leuven, Belgium, pp. 155-186.
+
++++
+
+### YouTube Videos
+
+YouTube: Sound (Design) Is 70% Of What You See  
+https://www.youtube.com/embed/Jb2RRoEt4_M
+
+The Beautiful Lies of Sound Design  
+https://www.youtube.com/embed/jDy5j0c6TrU
+
+Top 10 Best Sound Designed Films of All Time
+https://www.youtube.com/embed/GBrl96hyChc
+
++++
+
+### Suggested sites:
+
+filmsound.org  
+designingsound.org
+
 ---
 
 End
