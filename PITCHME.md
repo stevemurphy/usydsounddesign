@@ -35,13 +35,13 @@ Reference theory of sound, e.g. acousmatics
 
 ## Video clips
 
-![Video](http://d.pr/v/6zFgQ.mp4)
+![Video](http://d.pr/v/6zFgQ+)
 
 ---
 
 ## Video clips
 
-![Video](https://www.dropbox.com/s/trado6eyzz1cmai/Sound%20Design%20Clip%2001.mp4?dl=1)
+![Video](https://www.dropbox.com/s/trado6eyzz1cmai/Sound%20Design%20Clip%2001.mp4?raw=1)
 
 ---
 
@@ -53,7 +53,7 @@ Reference theory of sound, e.g. acousmatics
 
 ## Video clips - background
 
----?video=https://www.dropbox.com/s/trado6eyzz1cmai/Sound%20Design%20Clip%2001.mp4?dl=1
+---?video=https://www.dropbox.com/s/trado6eyzz1cmai/Sound%20Design%20Clip%2001.mp4?raw=1
 
 ---
 
