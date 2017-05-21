@@ -35,25 +35,25 @@ Reference theory of sound, e.g. acousmatics
 
 ## Video clips
 
-![Video](http://d.pr/v/6zFgQ)
+![Video](http://d.pr/v/6zFgQ+)
 
 ---
 
 ## Video clips
 
-![Video](https://www.dropbox.com/s/trado6eyzz1cmai/Sound%20Design%20Clip%2001.mp4)
+![Video](https://www.dropbox.com/s/trado6eyzz1cmai/Sound%20Design%20Clip%2001.mp4?dl=1)
 
 ---
 
 ## Video clips - background
 
----?video=http://d.pr/v/6zFgQ
+---?video=http://d.pr/v/6zFgQ+
 
 ---
 
 ## Video clips - background
 
----?video=https://www.dropbox.com/s/trado6eyzz1cmai/Sound%20Design%20Clip%2001.mp4
+---?video=https://www.dropbox.com/s/trado6eyzz1cmai/Sound%20Design%20Clip%2001.mp4?dl=1
 
 ---
 
