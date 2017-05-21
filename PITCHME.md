@@ -52,6 +52,12 @@ YouTube: Sound (Design) Is 70% Of What You See
 
 ---
 
+#### YouTube Excerpt: The Scene
+
+![YouTube Video](https://youtu.be/Jb2RRoEt4_M?t=1m41s)
+
+---
+
 #### Intro: The Scene
 
 ---?video=http://d.pr/v/6zFgQ+
