@@ -33,9 +33,39 @@ Reference theory of sound, e.g. acousmatics
 
 ---
 
+YouTube: Sound (Design) Is 70% Of What You See
+
+![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
+
+---
+
+*YouTube: Sound (Design) Is 70% Of What You See*
+
+![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
+
+---
+
 **YouTube: Sound (Design) Is 70% Of What You See**
 
-![Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
+![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
+
+---
+
+### YouTube: Sound (Design) Is 70% Of What You See 
+
+![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
+
+---
+
+#### YouTube: Sound (Design) Is 70% Of What You See 
+
+![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
+
+---
+
+##### YouTube: Sound (Design) Is 70% Of What You See 
+
+![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
 
 ---
 
@@ -46,7 +76,7 @@ Reference theory of sound, e.g. acousmatics
 ---
 
 ## Top 10 Best Sound Designed Films of All Time
-![Video](https://www.youtube.com/embed/GBrl96hyChc)
+![YouTube Video](https://www.youtube.com/embed/GBrl96hyChc)
 
 ---
 
