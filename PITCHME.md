@@ -86,6 +86,11 @@ designingsound.org
 
 (Ward 2015)
 
+---
+
+## DENSE CLARITY
+## CLEAR DENSITY
+
 +++
 
 ## Clarity and Density
@@ -94,16 +99,7 @@ designingsound.org
 
 (Murch 2005)
 
----
-
-## DENSE CLARITY
-## CLEAR DENSITY
-
-+++
-
 +++?image=http://d.pr/i/rqZYu.png
-
-+++
 
 +++?image=http://d.pr/i/t0jI2.png
 
