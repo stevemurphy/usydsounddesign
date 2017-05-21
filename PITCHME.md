@@ -35,7 +35,7 @@ Reference theory of sound, e.g. acousmatics
 
 ## Video clips
 
-![Video](http://d.pr/v/6zFgQ+)
+![Video](http://d.pr/v/6zFgQ.mp4)
 
 ---
 
