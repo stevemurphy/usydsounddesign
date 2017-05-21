@@ -33,21 +33,19 @@ Reference theory of sound, e.g. acousmatics
 
 ---
 
-## Video clips - background
+**YouTube: Sound (Design) Is 70% Of What You See**
 
----?video=http://d.pr/v/6zFgQ+
-<!-- .slide: data-background: #000000 -->
+![Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
 
 ---
 
-## Video clips - background
+#### Intro: The Scene
 
----?video=https://www.youtube.com/embedJb2RRoEt4_M
+---?video=http://d.pr/v/6zFgQ+
 
 ---
 
 ## Top 10 Best Sound Designed Films of All Time
-<!-- .slide: data-background: #000000 -->
 ![Video](https://www.youtube.com/embed/GBrl96hyChc)
 
 ---
