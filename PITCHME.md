@@ -54,13 +54,13 @@ YouTube: Sound (Design) Is 70% Of What You See
 
 #### Intro: The Scene (CDN)
 
----?video=https://objects-us-west-1.dream.io/sm-pres-assets/Sound-Design-Clip-01.mp4?Signature=plph7L1wZENPP4fkk3MVdMFPRaE%3D&Expires=1498032414&AWSAccessKeyId=futbhgzlEwqs4nJQInGH
+---?video=https://objects-us-west-1.dream.io/sm-pres-assets/Sound-Design-Clip-01.mp4?Expires=1495359866&Signature=A9vjG7R8oS0IKcPJnYt7ONf4eJ4%3D&AWSAccessKeyId=futbhgzlEwqs4nJQInGH
 
 ---
 
 #### Intro: The Scene (CDN)
 
-![CDN Video](https://objects-us-west-1.dream.io/sm-pres-assets/Sound-Design-Clip-01.mp4?Signature=plph7L1wZENPP4fkk3MVdMFPRaE%3D&Expires=1498032414&AWSAccessKeyId=futbhgzlEwqs4nJQInGH)
+![CDN Video](https://objects-us-west-1.dream.io/sm-pres-assets/Sound-Design-Clip-01.mp4?Expires=1495359866&Signature=A9vjG7R8oS0IKcPJnYt7ONf4eJ4%3D&AWSAccessKeyId=futbhgzlEwqs4nJQInGH)
 
 ---
 
