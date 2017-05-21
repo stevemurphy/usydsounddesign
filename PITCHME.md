@@ -70,6 +70,62 @@ designingsound.org
 
 ---
 
+## Sound Design
+
+- Sound modifies visual perception, and vice versa
+- Cinema is not a visual medium, but multimodal    |
+- Cinema is not primarily narrative, but affective |
+
+(Ward 2015)
+
++++
+
+## Sound Design
+
+“Sound design ... is considered to be a process by which many sound fragments are created, selected, organised, and blended into a unified, coherent and immersive auditory image. Distinctive features of contemporary cinematic sound are a playful recombination of auditory and visual fragments, and a heightened manipulation of auditory spatialisation, temporal resolution, and timbre.”
+
+(Ward 2015)
+
++++
+
+## Clarity and Density
+
+“what began to interest me from a creative point of view was the point where I could see the forest and the trees – where there was simultaneously Clarity, which comes through a feeling for the individual elements (the notes), and Density, which comes through a feeling for the whole (the chord). And I found this balance point to occur most often when there were not quite three layers of something. I came to nickname this my _Law of Two-and-a-half_.”
+
+(Murch 2005)
+
+---
+
+## DENSE CLARITY
+## CLEAR DENSITY
+
++++
+
+---?image=http://d.pr/i/rqZYu.png
+
++++
+
+---?image=http://d.pr/i/rqZYu+
+
+
++++
+
+---?image=http://d.pr/i/t0jI2.png
+
++++
+
+---?image=http://d.pr/i/t0jI2+
+
++++
+
+## Clarity and Density
+
+“my hope was the lasting impression of everything happening at once – Density – yet everything heard distinctly – Clarity. In fact...simultaneous Density and Clarity can only be achieved by a kind of subterfuge.”
+
+(Murch 2005)
+
+---
+
 YouTube: Sound (Design) Is 70% Of What You See
 
 ![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
@@ -78,20 +134,102 @@ YouTube: Sound (Design) Is 70% Of What You See
 
 #### Intro: The Scene
 
----
-
-![Clip](http://d.pr/v/6zFgQ.mp4)
+---?video=http://d.pr/v/ENb69+
 
 ---
 
-#### Intro: The Scene
+#### Starting the Edit
 
----?video=http://d.pr/v/6zFgQ+
+---?video=http://d.pr/v/ka9NA+
+
+---
+
+#### Spotting Session
+
+---?video=https://d.pr/URw7e+
+
+---
+
+#### The Dialogue Edit
+
+---?video=http://d.pr/v/aqxyw+
+
+Note:
+For this, really recommend listening to the video later, probably on headphones, so you can hear the holes and how the fill works.
+
+---
+
+#### Sound Design
+clip05
+---?video=+
+
+---
+
+#### Sound Design (Creative Collaboration)
+clip 06
+---?video=https://d.pr/Lm9eZ+
+
+---
+
+#### Sound Mixing
+clip 07
+---?video=+
+
+---
+
+#### Sound Mixing
+clip 09
+---?video=+
+
+---
+
+#### Diegetic sound
+
+clip 08
+
+---?video=+
+
+Note:
+"non-diagetic" - spelt wrong, and wrongly applied. This sound still comes from the story space. In this case, it is off-screen, and not sync/production, but those are not the same thing
+
+---
+
+#### Langkjær
+lies 01
+---?video=+
+
+---
+
+#### Langkjær
+lies 02
+---?video=+
 
 ---
 
 ## Top 10 Best Sound Designed Films of All Time
 ![YouTube Video](https://www.youtube.com/embed/GBrl96hyChc)
+
+---
+
+#### Top 10 Stalker
+
+---?video=+
+
+Note:
+Complexity of sound design - many things - world, narration, tone, emotion.
+
+---
+
+---
+
+#### Top 10 The Conversation
+
+---?video=+
+
+Note:
+Murch
+
+---
 
 ---
 
