@@ -165,16 +165,14 @@ For this, really recommend listening to the video later, probably on headphones,
 ---
 
 ### Sound Mixing
-clip 09
----?video=+
+
+---?video=https://d.pr/MgdVS+
 
 ---
 
 ### Diegetic sound
 
-clip 08
-
----?video=+
+---?video=https://d.pr/6fYWI+
 
 Note:
 "non-diagetic" - spelt wrong, and wrongly applied. This sound still comes from the story space. In this case, it is off-screen, and not sync/production, but those are not the same thing
@@ -188,14 +186,14 @@ YouTube: The Beautiful Lies of Sound Design
 ---
 
 ### Langkjær
-lies 01
----?video=+
+
+---?video=https://d.pr/e92FU+
 
 ---
 
 ### Langkjær
-lies 02
----?video=+
+
+---?video=https://d.pr/ckNqx+
 
 ---
 
@@ -207,7 +205,7 @@ YouTube: Top 10 Best Sound Designed Films of All Time
 
 ### Top 10 Stalker
 
----?video=+
+---?video=https://d.pr/7oMzs+
 
 Note:
 Complexity of sound design - many things - world, narration, tone, emotion.
@@ -218,7 +216,7 @@ Complexity of sound design - many things - world, narration, tone, emotion.
 
 ### Top 10 The Conversation
 
----?video=+
+---?video=https://d.pr/v7oiV+
 
 Note:
 Murch
