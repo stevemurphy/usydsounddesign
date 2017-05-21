@@ -99,9 +99,9 @@ designingsound.org
 
 (Murch 2005)
 
-+++?image=http://d.pr/i/rqZYu.png
-
 +++?image=http://d.pr/i/t0jI2.png
+
++++?image=http://d.pr/i/rqZYu.png
 
 +++
 
@@ -147,20 +147,20 @@ For this, really recommend listening to the video later, probably on headphones,
 ---
 
 #### Sound Design
-clip05
----?video=+
+
+---?video=https://d.pr/Rg4VP+
 
 ---
 
 #### Sound Design (Creative Collaboration)
-clip 06
+
 ---?video=https://d.pr/Lm9eZ+
 
 ---
 
 #### Sound Mixing
-clip 07
----?video=+
+
+---?video=https://d.pr/Jg3uQ+
 
 ---
 
