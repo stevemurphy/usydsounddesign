@@ -16,6 +16,13 @@ But, what do I do? What, especially, does a sound designer do?
 
 Some explanation of title, roles
 
+Three points:
+Sound Design/Sound Designers - who/overview
+Workflow - what we do in detail
+Theory - the why/functions of sound
+
+
+
 Use skillshare video to go through workflow (edit, put clips on dropbox for linking slideshow)
 
 Highlight some of the problems, e.g. when does sound design begin?
@@ -34,36 +41,6 @@ Reference theory of sound, e.g. acousmatics
 ---
 
 YouTube: Sound (Design) Is 70% Of What You See
-
-![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
-
----
-
-*YouTube: Sound (Design) Is 70% Of What You See*
-
-![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
-
----
-
-**YouTube: Sound (Design) Is 70% Of What You See**
-
-![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
-
----
-
-### YouTube: Sound (Design) Is 70% Of What You See 
-
-![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
-
----
-
-#### YouTube: Sound (Design) Is 70% Of What You See 
-
-![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
-
----
-
-##### YouTube: Sound (Design) Is 70% Of What You See 
 
 ![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
 
