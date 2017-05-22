@@ -12,63 +12,124 @@ Brief intro to ASSG
 
 Those are my two professional identities - educator, film sound worker
 
+*Overall*
+Three points:
+Sound Design/Sound Designers - who/overview
+Workflow - what we do in detail
+Theory - the why/functions of sound
+
+---
+
+### But
+
+What do I really do?
+
+Note:
+
 But, what do I do? What, especially, does a sound designer do?
 
-Some explanation of title, roles
+Sound design is many things:
+- Industrial (roles, titles etc)
+- Work (workflow, practice)
+- Functional (functions and theory of sound/design)
+
+---
+
+### Designing Sound
+
+Note:
+Some explanation of title (history), roles, industrial models etc.
 
 Three points:
 Sound Design/Sound Designers - who/overview
 Workflow - what we do in detail
 Theory - the why/functions of sound
 
-
-
-Use skillshare video to go through workflow (edit, put clips on dropbox for linking slideshow)
-
-Highlight some of the problems, e.g. when does sound design begin?
-quote Randy Thom
-
-Go through functions of sound
-support story world
-narrative
-create realism/hyper-realism
-genre
-aesthetics
-immersion/engagement
-
-Reference theory of sound:
-
-perceptual realism - audio and image appear in a way that causes the mind to connect them, and for unreal sounds/images to appear as real
-(Langkjaer)
-
-representation vs reproduction 
-temporal synchronicity creates coherance suggesting perceptual naturalness - appears likely, even if not.
-(Langkjaer)
-
-added value (Chion Audio-Vision)
-Sounds shows us the image differently than what the image shows alone (e.g. sounds off screen). The image likewise makes us hear sound differently than if no vision is present.
-
-http://filmsound.org/chion/Added.htm
-
-"The expressive and/or informative value with which a sound enriches a given image, so as to create the definite impression (either immediate or remembered) that this meaning emanates 'naturally' from the image itself."
-
-Emotion (Thom)
-
-Clarity & Density (Murch)
- a line between encoded messages (linguistics) to embodied (music)
-
-Chion, M. (1994). _Audio-vision: sound on screen_. New York: Columbia University Press.
-
-Langkjær, B. (2010). 'Making fictions sound real - on film sound, perceptual realism and genre', _MedieKultur_, vol. 26, no. 48, pp. 5-17.
-
-Murch, W. (2005, April 1). _Walter Murch._ Retrieved from http://transom.org/2005/walter-murch/
-
-Suggested sites:
-
-filmsound.org
-designingsound.org
+Next - let's look at the basic work and workflow
 
 ---
+
+YouTube: Sound (Design) Is 70% Of What You See
+
+![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
+
+Note:
+Use Skillshare video to go through workflow (using edited clip excerpts)
+
+---
+
+### Intro: The Example Scene
+
+---?video=http://d.pr/v/ENb69+
+
+---
+
+### Starting the Edit
+
+---?video=http://d.pr/v/ka9NA+
+
+---
+
+### Spotting Session
+
+---?video=https://d.pr/URw7e+
+
+Note:
+Highlight some of the problems with this video/approach, e.g. when does sound design begin?
+quote Randy Thom
+
+---
+
+### The Dialogue Edit
+
+---?video=http://d.pr/v/aqxyw+
+
+Note:
+For this, really recommend listening to the video later, probably on headphones, so you can hear the holes and how the fill works.
+
+---
+
+### Sound Design
+
+---?video=https://d.pr/Rg4VP+
+
+---
+
+### Creative Collaboraters
+
+---?video=https://d.pr/Lm9eZ+
+
+Note:
+Reference Thom - it's when everything part of filmmaking comes together. And it should not just be adding something after the picture edit.
+
+---
+
+### Sound Mixing
+
+---?video=https://d.pr/Jg3uQ+
+
+---
+
+### Sound Mixing
+
+---?video=https://d.pr/MgdVS+
+
+---
+
+## The Function of Sound
+
+What does sound really do?
+
+Note:
+Go through functions of sound
+- support story world
+- narrative
+- create realism/hyper-realism
+- genre
+- aesthetics
+- immersion/engagement
+
+###
 
 ## Sound Design
 
@@ -88,8 +149,40 @@ designingsound.org
 
 ---
 
+YouTube: The Beautiful Lies of Sound Design
+
+![YouTube Video](https://www.youtube.com/embed/jDy5j0c6TrU)
+
+Note
+Reference other theories of sound:
+
+perceptual realism - audio and image appear in a way that causes the mind to connect them, and for unreal sounds/images to appear as real
+(Langkjaer)
+
+representation vs reproduction 
+temporal synchronicity creates coherance suggesting perceptual naturalness - appears likely, even if not.
+(Langkjaer)
+
+---
+
+### Langkjær
+
+---?video=https://d.pr/e92FU+
+
++++
+
+### Langkjær
+
+---?video=https://d.pr/ckNqx+
+
+--
+
 ## DENSE CLARITY
 ## CLEAR DENSITY
+
+Note:
+Clarity & Density (Murch)  
+a continuum between encoded messages (linguistics) to embodied (music)
 
 +++
 
@@ -113,60 +206,16 @@ designingsound.org
 
 ---
 
-YouTube: Sound (Design) Is 70% Of What You See
+## Added Value
 
-![YouTube Video](https://www.youtube.com/embed/Jb2RRoEt4_M)
+"The expressive and/or informative value with which a sound enriches a given image, so as to create the definite impression (either immediate or remembered) that this meaning emanates 'naturally' from the image itself."
 
----
-
-### Intro: The Scene
-
----?video=http://d.pr/v/ENb69+
-
----
-
-### Starting the Edit
-
----?video=http://d.pr/v/ka9NA+
-
----
-
-### Spotting Session
-
----?video=https://d.pr/URw7e+
-
----
-
-### The Dialogue Edit
-
----?video=http://d.pr/v/aqxyw+
+http://filmsound.org/chion/Added.htm
 
 Note:
-For this, really recommend listening to the video later, probably on headphones, so you can hear the holes and how the fill works.
+Added value (Chion, Audio-Vision)
 
----
-
-### Sound Design
-
----?video=https://d.pr/Rg4VP+
-
----
-
-### Sound Design (Creative Collaboration)
-
----?video=https://d.pr/Lm9eZ+
-
----
-
-### Sound Mixing
-
----?video=https://d.pr/Jg3uQ+
-
----
-
-### Sound Mixing
-
----?video=https://d.pr/MgdVS+
+Sounds cause us to see the image differently compared to what it shows on its own. For example, sounds off screen change our sense of space and the world, expanding the image). The image likewise makes us hear sound differently than if there was image at all, only the sound.
 
 ---
 
@@ -175,25 +224,9 @@ For this, really recommend listening to the video later, probably on headphones,
 ---?video=https://d.pr/6fYWI+
 
 Note:
-"non-diagetic" - spelt wrong, and wrongly applied. This sound still comes from the story space. In this case, it is off-screen, and not sync/production, but those are not the same thing
+"non-diagetic" - spelt wrong, and wrongly applied. This sound still comes from the story space. In this case, it is off-screen, and not sync/production, but those are not the same thing.
 
----
-
-YouTube: The Beautiful Lies of Sound Design
-
-![YouTube Video](https://www.youtube.com/embed/jDy5j0c6TrU)
-
----
-
-### Langkjær
-
----?video=https://d.pr/e92FU+
-
----
-
-### Langkjær
-
----?video=https://d.pr/ckNqx+
+But really, this is an example of added value.
 
 ---
 
@@ -203,18 +236,20 @@ YouTube: Top 10 Best Sound Designed Films of All Time
 
 ---
 
-### Top 10 Stalker
+### Stalker
 
 ---?video=https://d.pr/7oMzs+
 
 Note:
 Complexity of sound design - many things - world, narration, tone, emotion.
 
----
+Emotion (Thom)
 
 ---
 
-### Top 10 The Conversation
+---
+
+### The Conversation
 
 ---?video=https://d.pr/v7oiV+
 
@@ -223,11 +258,15 @@ Murch
 
 ---
 
-### REFERENCES
+### References
 
 Chion, M. (1994). _Audio-vision: sound on screen_. New York: Columbia University Press.
 
 Langkjær, B. (2010). 'Making fictions sound real - on film sound, perceptual realism and genre', _MedieKultur_, vol. 26, no. 48, pp. 5-17.
+
+---
+
+### References
 
 Murch, W. (2005, April 1). _Walter Murch._ Retrieved from http://transom.org/2005/walter-murch/
 
@@ -238,20 +277,21 @@ Ward, M.S. (2015). 'Art in noise: an embodied simulation account of cinematic so
 ### YouTube Videos
 
 YouTube: Sound (Design) Is 70% Of What You See  
-https://www.youtube.com/embed/Jb2RRoEt4_M
+https://www.youtube.com/watch?v=Jb2RRoEt4_M
 
 The Beautiful Lies of Sound Design  
-https://www.youtube.com/embed/jDy5j0c6TrU
+https://www.youtube.com/watch?v=jDy5j0c6TrU
 
 Top 10 Best Sound Designed Films of All Time
-https://www.youtube.com/embed/GBrl96hyChc
+https://www.youtube.com/watch?v=GBrl96hyChc
 
 +++
 
-### Suggested sites:
+### Suggested Sites:
 
-filmsound.org  
-designingsound.org
+http://filmsound.org  
+
+http://designingsound.org
 
 ---
 
