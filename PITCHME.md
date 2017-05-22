@@ -264,7 +264,7 @@ Chion, M. (1994). _Audio-vision: sound on screen_. New York: Columbia University
 
 Langkjær, B. (2010). 'Making fictions sound real - on film sound, perceptual realism and genre', _MedieKultur_, vol. 26, no. 48, pp. 5-17.
 
----
++++
 
 ### References
 
