@@ -169,13 +169,13 @@ temporal synchronicity creates coherance suggesting perceptual naturalness - app
 
 ---?video=https://d.pr/e92FU+
 
-+++
+---
 
 ### Perceptual Naturalness
 
 ---?video=https://d.pr/ckNqx+
 
---
+---
 
 ## DENSE CLARITY
 ## CLEAR DENSITY
