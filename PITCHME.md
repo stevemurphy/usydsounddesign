@@ -129,7 +129,7 @@ Go through functions of sound
 - aesthetics
 - immersion/engagement
 
-###
++++
 
 ## Sound Design
 
@@ -153,7 +153,7 @@ YouTube: The Beautiful Lies of Sound Design
 
 ![YouTube Video](https://www.youtube.com/embed/jDy5j0c6TrU)
 
-Note
+Note:
 Reference other theories of sound:
 
 perceptual realism - audio and image appear in a way that causes the mind to connect them, and for unreal sounds/images to appear as real
@@ -165,13 +165,13 @@ temporal synchronicity creates coherance suggesting perceptual naturalness - app
 
 ---
 
-### Langkjær
+### Perceptual Realism
 
 ---?video=https://d.pr/e92FU+
 
 +++
 
-### Langkjær
+### Perceptual Naturalness
 
 ---?video=https://d.pr/ckNqx+
 
@@ -295,4 +295,4 @@ http://designingsound.org
 
 ---
 
-End
+Questions?
