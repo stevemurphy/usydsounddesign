@@ -95,7 +95,7 @@ For this, really recommend listening to the video later, probably on headphones,
 
 ---
 
-### Creative Collaboraters
+### Creative Collaborators
 
 ---?video=https://d.pr/Lm9eZ+
 
